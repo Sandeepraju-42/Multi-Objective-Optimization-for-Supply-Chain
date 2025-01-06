@@ -1,6 +1,7 @@
 Multi-Objective Optimization for Supply Chain
 
-This repository demonstrates multi-objective optimization (MOO) techniques applied to supply chain problems. The focus is on balancing key objectives like cost, emissions, and resilience, with constraints like supplier capacity and order demands.
+This repository demonstrates multi-objective optimization (MOO) techniques applied to supply chain problems. 
+The focus is on balancing key objectives like cost, emissions, and resilience, with constraints like supplier capacity and order demands.
 
 Objectives:
     1. Maximize Line Utilization: Increase production efficiency.
